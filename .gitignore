@@ -1,0 +1,23 @@
+# Virtual Environments
+ml_env/
+env/
+venv/
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset cache (can be downloaded/regenerated anytime via python data/download_data.py)
+data/processed/dataset_splits.json
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
