@@ -16,8 +16,6 @@ An end-to-end Deep Learning sequence classification system for **Movie Review Se
 * **Department:** Computer Science and Engineering
 * **Course:** Deep Learning Mini-Project
 * **Class & Section:** IV Year B.Tech – Section A | **Academic Year:** 2026–2027
-* **Team Number:** 3
-* **Submission Deadline:** 16-11-2026
 
 
 ## 🎯 Project Overview
