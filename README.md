@@ -19,16 +19,6 @@ An end-to-end Deep Learning sequence classification system for **Movie Review Se
 * **Team Number:** 3
 * **Submission Deadline:** 16-11-2026
 
-### 👥 Team Members
-| S. No. | Student Name | Roll Number | Role |
-| :---: | :--- | :---: | :--- |
-| 1 | **A. Lokesh Sai Srinivas** | **23PA1A512** | Model Architecture Design & Pipeline Lead |
-| 2 | **Team Member 2** | **23PA1A513** | Dataset Ingestion & Preprocessing |
-| 3 | **Team Member 3** | **23PA1A514** | Model Training & Hyperparameter Tuning |
-| 4 | **Team Member 4** | **23PA1A515** | Testing, Validation & Metrics Analysis |
-| 5 | **Team Member 5** | **23PA1A516** | Inference Engine & Documentation |
-
----
 
 ## 🎯 Project Overview
 This project classifies unconstrained movie reviews into **Positive** or **Negative** sentiment using a custom **Bidirectional Long Short-Term Memory (BiLSTM)** neural network built with PyTorch.
